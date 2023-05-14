@@ -30,6 +30,7 @@
 		BC7EE9802A10FCD100F93761 /* LoginViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC7EE97F2A10FCD100F93761 /* LoginViewViewModel.swift */; };
 		BC7EE9822A10FCD900F93761 /* RegisterViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC7EE9812A10FCD900F93761 /* RegisterViewViewModel.swift */; };
 		BC7EE9842A10FCE500F93761 /* ToDoListViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC7EE9832A10FCE500F93761 /* ToDoListViewViewModel.swift */; };
+		BC7EE9862A1101DC00F93761 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC7EE9852A1101DC00F93761 /* HeaderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +55,7 @@
 		BC7EE97F2A10FCD100F93761 /* LoginViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewViewModel.swift; sourceTree = "<group>"; };
 		BC7EE9812A10FCD900F93761 /* RegisterViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewViewModel.swift; sourceTree = "<group>"; };
 		BC7EE9832A10FCE500F93761 /* ToDoListViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListViewViewModel.swift; sourceTree = "<group>"; };
+		BC7EE9852A1101DC00F93761 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 				BC7EE96D2A10FBF400F93761 /* LoginView.swift */,
 				BC7EE96F2A10FBFF00F93761 /* RegisterView.swift */,
 				BC7EE9712A10FC3500F93761 /* ToDoListView.swift */,
+				BC7EE9852A1101DC00F93761 /* HeaderView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -242,6 +245,7 @@
 				BC7EE9742A10FC5500F93761 /* User.swift in Sources */,
 				BC7EE97A2A10FC9900F93761 /* ProfileViewViewModel.swift in Sources */,
 				BC7EE9802A10FCD100F93761 /* LoginViewViewModel.swift in Sources */,
+				BC7EE9862A1101DC00F93761 /* HeaderView.swift in Sources */,
 				BC7EE97E2A10FCC400F93761 /* NewItemViewViewModel.swift in Sources */,
 				BC7EE9662A10FBA200F93761 /* ProfileView.swift in Sources */,
 				BC7EE9492A10F54D00F93761 /* mell_to_do_listApp.swift in Sources */,
