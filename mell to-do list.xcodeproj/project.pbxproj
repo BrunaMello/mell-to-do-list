@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BC406A212A13ABA10065EA87 /* TLButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC406A202A13ABA10065EA87 /* TLButton.swift */; };
 		BC7EE9492A10F54D00F93761 /* mell_to_do_listApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC7EE9482A10F54D00F93761 /* mell_to_do_listApp.swift */; };
 		BC7EE94B2A10F54D00F93761 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC7EE94A2A10F54D00F93761 /* MainView.swift */; };
 		BC7EE94D2A10F54E00F93761 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC7EE94C2A10F54E00F93761 /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BC406A202A13ABA10065EA87 /* TLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLButton.swift; sourceTree = "<group>"; };
 		BC7EE9452A10F54D00F93761 /* mell to-do list.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "mell to-do list.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC7EE9482A10F54D00F93761 /* mell_to_do_listApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mell_to_do_listApp.swift; sourceTree = "<group>"; };
 		BC7EE94A2A10F54D00F93761 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
@@ -119,6 +121,7 @@
 				BC7EE96F2A10FBFF00F93761 /* RegisterView.swift */,
 				BC7EE9712A10FC3500F93761 /* ToDoListView.swift */,
 				BC7EE9852A1101DC00F93761 /* HeaderView.swift */,
+				BC406A202A13ABA10065EA87 /* TLButton.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -242,6 +245,7 @@
 				BC7EE9722A10FC3500F93761 /* ToDoListView.swift in Sources */,
 				BC7EE9682A10FBB700F93761 /* ToDoListItemsView.swift in Sources */,
 				BC7EE9702A10FBFF00F93761 /* RegisterView.swift in Sources */,
+				BC406A212A13ABA10065EA87 /* TLButton.swift in Sources */,
 				BC7EE9742A10FC5500F93761 /* User.swift in Sources */,
 				BC7EE97A2A10FC9900F93761 /* ProfileViewViewModel.swift in Sources */,
 				BC7EE9802A10FCD100F93761 /* LoginViewViewModel.swift in Sources */,

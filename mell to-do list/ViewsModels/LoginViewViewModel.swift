@@ -6,3 +6,18 @@
 //
 
 import Foundation
+
+class LoginViewViewModel: ObservableObject {
+    @Published var email = ""
+    @Published var password = ""
+    
+    //constructor
+    init () {
+        
+    }
+    
+    func login() {}
+    
+    func validate() {
+    }
+}
