@@ -26,7 +26,7 @@
 		BC7EE9762A10FC5E00F93761 /* ToDoListItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC7EE9752A10FC5E00F93761 /* ToDoListItem.swift */; };
 		BC7EE9782A10FC9300F93761 /* MainViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC7EE9772A10FC9300F93761 /* MainViewViewModel.swift */; };
 		BC7EE97A2A10FC9900F93761 /* ProfileViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC7EE9792A10FC9900F93761 /* ProfileViewViewModel.swift */; };
-		BC7EE97C2A10FCBA00F93761 /* ToDoListItemsViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC7EE97B2A10FCBA00F93761 /* ToDoListItemsViewViewModel.swift */; };
+		BC7EE97C2A10FCBA00F93761 /* ToDoListItemViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC7EE97B2A10FCBA00F93761 /* ToDoListItemViewViewModel.swift */; };
 		BC7EE97E2A10FCC400F93761 /* NewItemViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC7EE97D2A10FCC400F93761 /* NewItemViewViewModel.swift */; };
 		BC7EE9802A10FCD100F93761 /* LoginViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC7EE97F2A10FCD100F93761 /* LoginViewViewModel.swift */; };
 		BC7EE9822A10FCD900F93761 /* RegisterViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC7EE9812A10FCD900F93761 /* RegisterViewViewModel.swift */; };
@@ -53,7 +53,7 @@
 		BC7EE9752A10FC5E00F93761 /* ToDoListItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItem.swift; sourceTree = "<group>"; };
 		BC7EE9772A10FC9300F93761 /* MainViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewViewModel.swift; sourceTree = "<group>"; };
 		BC7EE9792A10FC9900F93761 /* ProfileViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewViewModel.swift; sourceTree = "<group>"; };
-		BC7EE97B2A10FCBA00F93761 /* ToDoListItemsViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItemsViewViewModel.swift; sourceTree = "<group>"; };
+		BC7EE97B2A10FCBA00F93761 /* ToDoListItemViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItemViewViewModel.swift; sourceTree = "<group>"; };
 		BC7EE97D2A10FCC400F93761 /* NewItemViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewItemViewViewModel.swift; sourceTree = "<group>"; };
 		BC7EE97F2A10FCD100F93761 /* LoginViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewViewModel.swift; sourceTree = "<group>"; };
 		BC7EE9812A10FCD900F93761 /* RegisterViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewViewModel.swift; sourceTree = "<group>"; };
@@ -133,7 +133,7 @@
 			children = (
 				BC7EE9772A10FC9300F93761 /* MainViewViewModel.swift */,
 				BC7EE9792A10FC9900F93761 /* ProfileViewViewModel.swift */,
-				BC7EE97B2A10FCBA00F93761 /* ToDoListItemsViewViewModel.swift */,
+				BC7EE97B2A10FCBA00F93761 /* ToDoListItemViewViewModel.swift */,
 				BC7EE97D2A10FCC400F93761 /* NewItemViewViewModel.swift */,
 				BC7EE97F2A10FCD100F93761 /* LoginViewViewModel.swift */,
 				BC7EE9812A10FCD900F93761 /* RegisterViewViewModel.swift */,
@@ -243,7 +243,7 @@
 			files = (
 				BC7EE96E2A10FBF400F93761 /* LoginView.swift in Sources */,
 				BC7EE94B2A10F54D00F93761 /* MainView.swift in Sources */,
-				BC7EE97C2A10FCBA00F93761 /* ToDoListItemsViewViewModel.swift in Sources */,
+				BC7EE97C2A10FCBA00F93761 /* ToDoListItemViewViewModel.swift in Sources */,
 				BC7EE9822A10FCD900F93761 /* RegisterViewViewModel.swift in Sources */,
 				BC7EE9722A10FC3500F93761 /* ToDoListView.swift in Sources */,
 				BC7EE9682A10FBB700F93761 /* ToDoListItemsView.swift in Sources */,
