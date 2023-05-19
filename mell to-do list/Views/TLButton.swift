@@ -14,19 +14,26 @@ struct TLButton: View {
     let action: () -> Void
     
     var body: some View {
-        Button {
-            // Action
-            action()
-        } label: {
+        Button(action: action) {
             ZStack {
                 RoundedRectangle(cornerRadius: 10)
                     .foregroundColor(background)
-                
                 Text(title)
                     .foregroundColor(Color.white)
                     .bold()
             }
         }
+//        Button {
+//            action()
+//        } label: {
+//            ZStack {
+//                RoundedRectangle(cornerRadius: 10)
+//                    .foregroundColor(background)
+//                Text(title)
+//                    .foregroundColor(Color.white)
+//                    .bold()
+//            }
+//        }
     }
 }
 
