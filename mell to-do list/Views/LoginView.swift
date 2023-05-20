@@ -37,6 +37,7 @@ struct LoginView: View {
                     TLButton(title: "Log In", background: .blue, action: {
                         // Attempt log in
                         viewModel.login()
+                    
                     })
                     .padding()
                 }
