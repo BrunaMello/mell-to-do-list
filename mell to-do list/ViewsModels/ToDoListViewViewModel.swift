@@ -21,7 +21,7 @@ class ToDoListViewViewModel: ObservableObject {
     
     
     /// Delete to do list item
-    /// - Parameter id: item id to delete 
+    /// - Parameter id: item id to delete
     func delete(id: String) {
         let db = Firestore.firestore()
         
@@ -31,6 +31,8 @@ class ToDoListViewViewModel: ObservableObject {
             .document(id)
             .delete()
     }
+    
+    
     
     
 }
