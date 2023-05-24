@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BC0527672A1E35F700697513 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC0527662A1E35F700697513 /* Launch Screen.storyboard */; };
 		BC406A212A13ABA10065EA87 /* TLButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC406A202A13ABA10065EA87 /* TLButton.swift */; };
 		BC7EE9492A10F54D00F93761 /* mell_to_do_listApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC7EE9482A10F54D00F93761 /* mell_to_do_listApp.swift */; };
 		BC7EE94B2A10F54D00F93761 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC7EE94A2A10F54D00F93761 /* MainView.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BC0527662A1E35F700697513 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 		BC406A202A13ABA10065EA87 /* TLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLButton.swift; sourceTree = "<group>"; };
 		BC7EE9452A10F54D00F93761 /* mell to-do list.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "mell to-do list.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC7EE9482A10F54D00F93761 /* mell_to_do_listApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mell_to_do_listApp.swift; sourceTree = "<group>"; };
@@ -158,6 +160,7 @@
 				BC7EE95F2A10F75600F93761 /* GoogleService-Info.plist */,
 				BC7EE9482A10F54D00F93761 /* mell_to_do_listApp.swift */,
 				BC9E1D902A14EF050087F1BA /* Extensions.swift */,
+				BC0527662A1E35F700697513 /* Launch Screen.storyboard */,
 			);
 			path = Others;
 			sourceTree = "<group>";
@@ -230,6 +233,7 @@
 			files = (
 				BC7EE9502A10F54E00F93761 /* Preview Assets.xcassets in Resources */,
 				BC7EE94D2A10F54E00F93761 /* Assets.xcassets in Resources */,
+				BC0527672A1E35F700697513 /* Launch Screen.storyboard in Resources */,
 				BC7EE9602A10F75600F93761 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
